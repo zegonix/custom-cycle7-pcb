@@ -1,0 +1,164 @@
+[
+  {
+    "backcolor": "#ffffff",
+    "name": "cycle 7",
+    "author": "zegonix",
+    "notes": "cycle 7 pcb (hotswap) with split spacebar and a reasonable mcu.."
+  },
+  [
+    {
+      "p": "R",
+      "sm": "cherry"
+    },
+    "ESC\n\n\n\n\n\n\n\n\n1",
+    "1\n!\n\n\n\n\n\n\n\n2",
+    "2\n@\n\n\n\n\n\n\n\n3",
+    "3\n#\n\n\n\n\n\n\n\n4",
+    "4\n$\n\n\n\n\n\n\n\n5",
+    "5\n%\n\n\n\n\n\n\n\n6",
+    "6\n^\n\n\n\n\n\n\n\n7",
+    "7\n&\n\n\n\n\n\n\n\n8",
+    "8\n*\n\n\n\n\n\n\n\n9",
+    "9\n(\n\n\n\n\n\n\n\n10",
+    "0\n)\n\n\n\n\n\n\n\n11",
+    "-\n_\n\n\n\n\n\n\n\n12",
+    "=\n+\n\n\n\n\n\n\n\n13",
+    {
+      "w": 2
+    },
+    "BACKSPACE\n\n\n\n\n\n\n\n\n14",
+    {
+      "x": 0.25
+    },
+    "INS\n\n\n\n\n\n\n\n\n15",
+    "HOME\n\n\n\n\n\n\n\n\n16",
+    "PGUP\n\n\n\n\n\n\n\n\n17"
+  ],
+  [
+    {
+      "w": 1.5
+    },
+    "TAB\n\n\n\n\n\n\n\n\n18",
+    "Q\n\n\n\n\n\n\n\n\n19",
+    "W\n\n\n\n\n\n\n\n\n20",
+    "E\n\n\n\n\n\n\n\n\n21",
+    "R\n\n\n\n\n\n\n\n\n22",
+    "T\n\n\n\n\n\n\n\n\n23",
+    "Y\n\n\n\n\n\n\n\n\n24",
+    "U\n\n\n\n\n\n\n\n\n25",
+    "I\n\n\n\n\n\n\n\n\n26",
+    "O\n\n\n\n\n\n\n\n\n27",
+    "P\n\n\n\n\n\n\n\n\n28",
+    "[\n{\n\n\n\n\n\n\n\n29",
+    "]\n}\n\n\n\n\n\n\n\n30",
+    {
+      "w": 1.5
+    },
+    "\\\n|\n\n\n\n\n\n\n\n31",
+    {
+      "x": 0.25
+    },
+    "DEL\n\n\n\n\n\n\n\n\n32",
+    "END\n\n\n\n\n\n\n\n\n33",
+    "PGDN\n\n\n\n\n\n\n\n\n34"
+  ],
+  [
+    {
+      "w": 1.75
+    },
+    "CAPS LOCK\n\n\n\n\n\n\n\n\n35",
+    "A\n\n\n\n\n\n\n\n\n36",
+    "S\n\n\n\n\n\n\n\n\n37",
+    "D\n\n\n\n\n\n\n\n\n38",
+    {
+      "n": true
+    },
+    "F\n\n\n\n\n\n\n\n\n39",
+    "G\n\n\n\n\n\n\n\n\n40",
+    "H\n\n\n\n\n\n\n\n\n41",
+    {
+      "n": true
+    },
+    "J\n\n\n\n\n\n\n\n\n42",
+    "K\n\n\n\n\n\n\n\n\n43",
+    "L\n\n\n\n\n\n\n\n\n44",
+    ";\n:\n\n\n\n\n\n\n\n45",
+    "'\n\"\n\n\n\n\n\n\n\n46",
+    {
+      "w": 2.25
+    },
+    "ENTER\n\n\n\n\n\n\n\n\n47"
+  ],
+  [
+    {
+      "w": 2.25
+    },
+    "SHIFT\n\n\n\n\n\n\n\n\n48",
+    "Z\n\n\n\n\n\n\n\n\n49",
+    "X\n\n\n\n\n\n\n\n\n50",
+    "C\n\n\n\n\n\n\n\n\n51",
+    "V\n\n\n\n\n\n\n\n\n52",
+    "B\n\n\n\n\n\n\n\n\n53",
+    "N\n\n\n\n\n\n\n\n\n54",
+    "M\n\n\n\n\n\n\n\n\n55",
+    ",\n<\n\n\n\n\n\n\n\n56",
+    ".\n>\n\n\n\n\n\n\n\n57",
+    "/\n?\n\n\n\n\n\n\n\n58",
+    {
+      "w": 2.75
+    },
+    "SHIFT\n\n\n\n\n\n\n\n\n59",
+    {
+      "x": 1.25
+    },
+    "UP\n\n\n\n\n\n\n\n\n60"
+  ],
+  [
+    {
+      "w": 1.25
+    },
+    "CTRL\n\n\n\n\n\n\n\n\n61",
+    {
+      "w": 1.25
+    },
+    "META\n\n\n\n\n\n\n\n\n62",
+    {
+      "w": 1.25
+    },
+    "ALT\n\n\n\n\n\n\n\n\n63",
+    {
+      "w": 1.25
+    },
+    "SPACE\n\n\n\n\n\n\n\n\n64",
+    {
+      "w": 2.75
+    },
+    "SPACE\n\n\n\n\n\n\n\n\n65",
+    {
+      "w": 2.25
+    },
+    "SPACE\n\n\n\n\n\n\n\n\n66",
+    {
+      "w": 1.25
+    },
+    "FN\n\n\n\n\n\n\n\n\n67",
+    {
+      "w": 1.25
+    },
+    "CTRL\n\n\n\n\n\n\n\n\n68",
+    {
+      "w": 1.25
+    },
+    "META\n\n\n\n\n\n\n\n\n69",
+    {
+      "w": 1.25
+    },
+    "ALT\n\n\n\n\n\n\n\n\n70",
+    {
+      "x": 0.25
+    },
+    "LEFT\n\n\n\n\n\n\n\n\n71",
+    "DOWN\n\n\n\n\n\n\n\n\n72",
+    "RIGHT\n\n\n\n\n\n\n\n\n73"
+  ]
+]
