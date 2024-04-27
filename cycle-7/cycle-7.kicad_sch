@@ -4224,7 +4224,7 @@
     (property "Datasheet" "~" (at 314.96 201.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Key" "RCTL" (at 314.96 195.58 0)
+    (property "Key" "RGUI" (at 314.96 195.58 0)
       (effects (font (size 1.27 1.27)))
     )
     (pin "1" (uuid a6beca92-c5f7-443b-b6cf-1c2438541cee))

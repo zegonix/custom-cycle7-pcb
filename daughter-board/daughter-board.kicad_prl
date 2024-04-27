@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 32,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -8,7 +8,7 @@
     "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
-      "images": 0.6000000238418579,
+      "images": 0.6,
       "pads": 1.0,
       "tracks": 1.0,
       "vias": 1.0,
@@ -63,11 +63,11 @@
       39,
       40
     ],
-    "visible_layers": "803d03c_ffffffff",
+    "visible_layers": "fffffff_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "cycle-7.kicad_prl",
+    "filename": "daughter-board.kicad_prl",
     "version": 3
   },
   "project": {
