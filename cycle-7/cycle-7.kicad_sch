@@ -4751,7 +4751,7 @@
 		(uuid "1e8f6ea9-30f6-43ce-bb45-f1129c4b9da0")
 	)
 	(junction
-		(at 54.61 49.53)
+		(at 54.61 45.72)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1ea56753-e01b-4c07-9ba2-3c731d22cf64")
@@ -6566,7 +6566,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 58.42) (xy 39.37 60.96)
+			(xy 39.37 57.15) (xy 39.37 60.96)
 		)
 		(stroke
 			(width 0)
@@ -6616,7 +6616,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 49.53) (xy 54.61 49.53)
+			(xy 39.37 45.72) (xy 54.61 45.72)
 		)
 		(stroke
 			(width 0)
@@ -6646,7 +6646,7 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 49.53) (xy 54.61 50.8)
+			(xy 54.61 45.72) (xy 54.61 49.53)
 		)
 		(stroke
 			(width 0)
@@ -7826,7 +7826,7 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 49.53) (xy 77.47 49.53)
+			(xy 54.61 45.72) (xy 77.47 45.72)
 		)
 		(stroke
 			(width 0)
@@ -8726,6 +8726,16 @@
 	)
 	(wire
 		(pts
+			(xy 54.61 59.69) (xy 54.61 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e04a0c41-edd1-486f-838e-55df4308a12c")
+	)
+	(wire
+		(pts
 			(xy 228.6 167.64) (xy 228.6 166.37)
 		)
 		(stroke
@@ -8876,7 +8886,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 49.53) (xy 39.37 53.34)
+			(xy 39.37 45.72) (xy 39.37 52.07)
 		)
 		(stroke
 			(width 0)
@@ -9194,7 +9204,7 @@
 		)
 		(uuid "ffe6d033-4e98-457a-98bb-65f15ace8ed5")
 	)
-	(text "Decoupling Capacitors for Pins 1, 19, 32, 48, 64\n+ Bulk Capacitor"
+	(text "Decoupling Capacitors for Pins 1, 13, 19, 32, 48, 64\n+ Bulk Capacitor"
 		(exclude_from_sim no)
 		(at 300.355 62.865 0)
 		(effects
@@ -9215,6 +9225,16 @@
 			(justify left bottom)
 		)
 		(uuid "6d038142-682b-428b-9dbc-0c26aaff5a87")
+	)
+	(text "the F401 chips have the resistors embedded"
+		(exclude_from_sim no)
+		(at 118.364 114.3 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "f4480a99-7500-415f-a4da-89c76d1e0cfc")
 	)
 	(label "COL5"
 		(at 236.22 93.98 270)
@@ -9349,7 +9369,7 @@
 		(uuid "27321520-7c1c-4e7a-982a-275b8ede6d20")
 	)
 	(label "nRESET"
-		(at 77.47 49.53 180)
+		(at 77.47 45.72 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -11336,7 +11356,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 54.61 55.88 90)
+		(at 54.61 54.61 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11345,7 +11365,7 @@
 		(fields_autoplaced yes)
 		(uuid "14490b00-fc5e-44d7-a840-1a5d93fc3cbb")
 		(property "Reference" "SW1"
-			(at 56.515 54.61 90)
+			(at 56.515 53.34 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11354,7 +11374,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 56.515 57.15 90)
+			(at 56.515 55.88 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11363,7 +11383,7 @@
 			)
 		)
 		(property "Footprint" "Button_Switch_SMD:SW_SPST_TL3342"
-			(at 49.53 55.88 0)
+			(at 49.53 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11372,7 +11392,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 49.53 55.88 0)
+			(at 49.53 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11381,7 +11401,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 54.61 55.88 0)
+			(at 54.61 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12262,7 +12282,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 39.37 55.88 0)
+		(at 39.37 54.61 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12271,7 +12291,7 @@
 		(fields_autoplaced yes)
 		(uuid "29421f5c-b836-4369-80c1-5350d7b27952")
 		(property "Reference" "C10"
-			(at 41.91 54.6163 0)
+			(at 41.91 53.3462 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12279,8 +12299,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
-			(at 41.91 57.1563 0)
+		(property "Value" "10n"
+			(at 41.91 55.8862 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12289,7 +12309,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 39.37 55.88 0)
+			(at 39.37 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12298,7 +12318,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 39.37 55.88 0)
+			(at 39.37 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12307,7 +12327,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 39.37 55.88 0)
+			(at 39.37 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12577,7 +12597,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "27"
+		(property "Value" "0"
 			(at 104.775 116.84 90)
 			(effects
 				(font
@@ -12722,7 +12742,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_SHL_SM06B-SHLS-TF_1x06-1MP_P1.00mm_Horizontal"
+		(property "Footprint" "Connector_JST:JST_SH_SM06B-SRSS-TB_1x06-1MP_P1.00mm_Horizontal"
 			(at 165.1 48.26 0)
 			(effects
 				(font
@@ -22256,7 +22276,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "27"
+		(property "Value" "0"
 			(at 104.775 119.38 90)
 			(effects
 				(font
