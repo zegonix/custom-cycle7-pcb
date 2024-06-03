@@ -7,4 +7,4 @@ This repository holds the design sources for a custom PCB and plate for the cycl
 Why make my own pcb for the cycle 7? Bootloader on TKD's PCB ~~is shit~~ does not comply with my requirements. Also the firmware is proprietary.
 
 What about this PCB? Sources are here and free to use however you want. **However use at your own risk, I do not guarantee any of this to be functional**
-I will make a separate repository with the qmk configuration, which you can load into your local QMK installations ./keyboard/ directiory.
+The QMK configuration for the keyboard is available at [zegonix/zegonix-qmk/cycle7](https://github.com/zegonix/zegonix-qmk).
